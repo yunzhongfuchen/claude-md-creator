@@ -73,14 +73,14 @@ Do not start coding until the user confirms or clarifies the restated requiremen
 - Build / Package:
 - Test command:
 
+## Directory Conventions
+<!-- DERIVE_FROM_PROJECT_STRUCTURE -->
+[Map out the project structure based on actual files and directories]
+
 ## Environment
 <!-- INCLUDE_ONLY_IF_USER_PROVIDES_ENVIRONMENT -->
 - Runtime:
 - Execution rule:
-
-## Directory Conventions
-<!-- DERIVE_FROM_PROJECT_STRUCTURE -->
-[Map out the project structure based on actual files and directories]
 
 ## Workflow Preferences
 <!-- INCLUDE_ONLY_IF_USER_SPECIFIES -->
